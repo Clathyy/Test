@@ -1,0 +1,61 @@
+body{
+    background-image: url(images/backgroud.webp);
+    font-family:      Georgia, "Times New Roman", Times, serif;
+    font-size:        medium;
+}
+
+.header{
+    height:50px;
+    text-align: center;
+    background-image: url(../HomePage/images/center.webp);
+}
+
+div#introduce{
+    margin-top:15px;
+    height:250px;
+    background-image: url(../HomePage/images/center.webp);
+    padding-top:20px;
+}
+
+.sing{
+    padding:20px 30px 0px 100px;
+    width:450px;
+    height:230px;
+    line-height: 1.8em;
+    float:left;
+}
+
+div#introduce1{
+    margin-top:15px;
+    height:250px;
+    background-image: url(../HomePage/images/center.webp);
+    padding-top:20px;
+    padding-left:20px;
+}
+
+.han{
+    padding:20px 100px 0px 100px;
+    width:250px;
+    height:230px;
+    line-height: 1.8em;
+    float:right;
+}
+
+.footer{
+    margin-top:15px;
+    height:50px;
+    padding-top:10px;
+    text-align: center;
+    background-image: url(../HomePage/images/center.webp);
+
+}
+
+div#allcontent{
+    width:1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.change{
+    color:coral;
+}

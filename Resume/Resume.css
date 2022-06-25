@@ -1,0 +1,77 @@
+body{
+    background-image: url(images/backgroud.webp);
+    font-family:      Georgia, "Times New Roman", Times, serif;
+    font-size:        medium;
+}
+
+.header{
+    height:50px;
+    text-align: center;
+    background-image: url(../HomePage/images/center.webp);
+}
+
+table{
+    border: thin solid black;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+td,th{
+    border: thin dotted gray;
+    padding:5px;
+}
+
+.cellcolor{
+    background-color:antiquewhite;
+}
+
+
+div#allcontent{
+    /*凝胶布局*/
+    width:1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tableContainer{
+    display:table;
+    border-spacing:20px;
+}
+
+#tableRow{
+    display:table-row;
+}
+
+#main{
+    display:table-cell;
+}
+
+#sidebar{
+    width:306px;
+    border:thin solid black;
+    display:table-cell;
+    vertical-align: top;
+}
+
+.pp {
+    text-align: center;
+    line-height: 1.8em;
+}
+
+.pp2{
+    text-align: center;
+    margin-top:-18px;
+}
+
+.pp3{
+    text-align: center;
+}
+
+form textarea{
+    display:table-cell;
+}
+
+
+.change{
+    color:coral;
+}
